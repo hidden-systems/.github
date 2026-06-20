@@ -1,8 +1,6 @@
 # Hidden Systems
 
-<!-- Uncomment when the hero image is ready:
 <img src="../assets/images/hidden-systems-hero.png" alt="Hidden Systems — Illuminating World Systems" width="100%">
--->
 
 ### Illuminating World Systems
 
@@ -19,7 +17,7 @@ Hidden Systems is a research-based educational project that makes the complex, o
 | | Topic | Status |
 |---|---|---|
 | 🟢 | The American Food System | Published |
-| 🔵 | Water Systems | Planned |
+| 🔵 | Risk Mitigation Systems | Planned |
 | 🔵 | Energy Systems | Planned |
 
 Community votes on what gets researched next at **[feedback.hiddensystems.org](https://feedback.hiddensystems.org)**.
